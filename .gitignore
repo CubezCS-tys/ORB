@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+
+# Node
+node_modules/
+
+# Data
+*.csv
+
+# Zone.Identifier files (WSL)
+*:Zone.Identifier
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# Next.js
+.next/
+out/
